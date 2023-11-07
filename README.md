@@ -60,9 +60,9 @@
 <h3 align="left">Statistics:📊</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamad-jaber&show_icons=true&theme=neon" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamad-jaber&theme=neon" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamad-jaber&layout=compact&langs_count=8&card_width=320&theme=neon" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamad-jaber&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamad-jaber" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamad-jaber&layout=compact&langs_count=8&card_width=320" />
 </p>
 <hr /> 
 
