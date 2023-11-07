@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">Hi 👋, I'm Mohammed Jaber</h1>
+    <h1 align="center">Hi 👋, I'm Mohammad Jaber</h1>
     <h2 align="center">👩‍💻  A Computer Systems Engineering Student</h2>
     <p align="left">- 🎓 I’m currently studying at <a href="https://ptuk.edu.ps/ar/">Palestine Technical University - Kadoorie.</a> <br><br>- 🔭 Passionate about software development<br><br>- 📩 Reach me on: mohamd.h.jaber@gmail.com</p>
     
