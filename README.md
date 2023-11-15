@@ -5,7 +5,7 @@
     
 </div>
 <hr /> 
-<h3 align="left">Languages and tools:🔮⛏️</h3>
+<h3 align="left">Languages and tools:</h3>
 <div align="left">
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="40" alt="dot-net logo"  />
@@ -50,14 +50,14 @@
 
 </div>
 <hr /> 
-<h3 align="left">Connect with me:📲🤙</h3>
+<h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://www.linkedin.com/in/mohammad-jaber-85238821b" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousefabuali" height="30" width="40" />
         </a>
     </p>
 <hr /> 
-<h3 align="left">Statistics:📊</h3>
+<h3 align="left">Statistics:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamad-jaber&show_icons=true" />
@@ -66,7 +66,7 @@
 </p>
 <hr /> 
 
-<h3 align="left">Visitors:👀</h3>
+<h3 align="left">Visitors:</h3>
 
 <p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=Mohamad-jaber&color=00FFFF&style=flat-square&label=Mohammad%27s+profile+views" alt="Mohamad-jaber-profile-views" /> </p>
 
