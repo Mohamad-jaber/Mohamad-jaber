@@ -1,7 +1,7 @@
 <div>
     <h1 align="center">Hi 👋, I'm Mohammad Jaber</h1>
     <h2 align="center">👩‍💻  A Computer Systems Engineering Student</h2>
-    <p align="left">- 🎓 I’m currently studying at <a href="https://ptuk.edu.ps/ar/">Palestine Technical University - Kadoorie.</a> <br><br>- 🔭 Passionate about software development<br><br>- 📩 Reach me on: <a href = "mailto: mohamd.h.jaber@gmail.com">mohamd.h.jaber@gmail.com</a></p>
+    <p align="left">- 🎓 I’m currently studying at <a href="https://ptuk.edu.ps/ar/">Palestine Technical University - Kadoorie.</a> <br><br>- 🔭  I’m currently learning ReactJs <br><br>- 📩 Reach me on: <a href = "mailto: mohamd.h.jaber@gmail.com">mohamd.h.jaber@gmail.com</a></p>
     
 </div>
 <hr /> 
