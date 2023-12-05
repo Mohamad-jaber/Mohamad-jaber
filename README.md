@@ -1,7 +1,8 @@
 <div>
     <h1 align="center">Hi 👋, I'm Mohammad Jaber</h1>
     <h2 align="center">👩‍💻  A Computer Systems Engineering Student</h2>
-    <p align="left">- 🎓 I’m currently studying at <a href="https://ptuk.edu.ps/ar/">Palestine Technical University - Kadoorie.</a> <br><br>- 🔭  I’m currently learning ReactJs <br><br>- 📩 Reach me on: <a href = "mailto: mohamd.h.jaber@gmail.com">mohamd.h.jaber@gmail.com</a></p>
+    <p align="left">- 🎓 I’m currently studying at <a href="https://ptuk.edu.ps/ar/">Palestine Technical University - Kadoorie.</a> <br><br>- 🔭  I’m currently learning ReactJs <br><br>- 📩 Reach me on: <a href = "mailto: mohamd.h.jaber@gmail.com">mohamd.h.jaber@gmail.com</a> <br><br> <img width="250px" src="https://komarev.com/ghpvc/?username=Mohamad-jaber&color=00FFFF&style=flat-square&label=Mohammad%27s+profile+views" alt="Mohamad-jaber-profile-views" /></p>
+    
     
 </div>
 <hr /> 
@@ -66,8 +67,8 @@
 </p>
 <hr /> 
 
-<h3 align="left">Visitors:</h3>
 
-<p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=Mohamad-jaber&color=00FFFF&style=flat-square&label=Mohammad%27s+profile+views" alt="Mohamad-jaber-profile-views" /> </p>
+
+
 
 
